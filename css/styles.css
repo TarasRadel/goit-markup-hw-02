@@ -144,7 +144,9 @@ a {text-decoration: none;}
         text-transform: capitalize;
  }
 
-
+.team-list {
+    background-color: #FFFFFF;
+}
  .team-subtitle{
     color: #2E2F42;
     text-align: center
