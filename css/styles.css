@@ -19,24 +19,23 @@ a {text-decoration: none;}
 }
 /*============Header=========*/
 .header-logo-dys{
-    color:  #4D5AE5;
+    color: #2e2f42;
         font-family: "Raleway", sans-serif;
         font-size: 18px;
         font-style: normal;
         font-weight: 700;
-        line-height: 21px;
-        /* 116.667% */
-        letter-spacing: 1.17;
+        line-height: 1.17;
+        letter-spacing: 0.03;
         text-transform: uppercase;
 }
 .header-logo{
-    color: #2E2F42;
+    color:#4d5ae5;
         font-family: "Raleway",
             sans-serif;
         font-size: 18px;
         font-weight: 700;
         line-height: 1.17;
-        letter-spacing: 0.02em;
+        letter-spacing: 0.03em;
         text-transform: uppercase;
 }
 .header-menu-item {
