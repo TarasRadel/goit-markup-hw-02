@@ -115,10 +115,10 @@ a {text-decoration: none;}
    /*=====================*/
    /*=======Features==============*/
  .features-subtitle {
-    color: var #2E2F42;
+    color: var #2e2f42;
         font-size: 20px;
         font-weight: 500;
-        line-height: 1.12;
+        line-height: 1.2;
         letter-spacing: 0.02em;
  }
  .features-item-text {
