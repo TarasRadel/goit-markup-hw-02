@@ -80,7 +80,7 @@ a {text-decoration: none;}
 /*============Hero=========*/
 
     .hero {
-        background-color: #2E2F42;
+        background-color:#F4F4FD;
     }
     .hero-title{
         color:  #FFF;
@@ -146,8 +146,6 @@ a {text-decoration: none;}
         text-transform: capitalize;
  }
 
-.team-list {
-    background-color: #FFFFFF;
 }
  .team-subtitle{
     background-color: #FFFFFF;
