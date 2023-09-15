@@ -132,10 +132,11 @@ a {text-decoration: none;}
  /*=====================*/
  /*=======team==============*/
  .team {
-    background: #F4F4FD;
+    background; #FFFFFF;
  }
 
  .team-titl {
+    background:#FFFFFF;
     color: #2E2F42;
         text-align: center;
         font-size: 36px;
