@@ -93,7 +93,7 @@ a {text-decoration: none;}
 
    .hero-bye-btn{
     background:  #4D5AE5;
-    color: #2e2f42; 
+    color: #FFFFFF; 
     font-family: inherit;
     font-size: 16px;
     font-weight: 500;
@@ -123,7 +123,7 @@ a {text-decoration: none;}
         letter-spacing: 0.02em;
  }
  .features-item-text {
-    color: #434455;
+    color: #2e2f42;
         font-size: 16px;
         font-weight: 400;
         line-height: 1.5;
