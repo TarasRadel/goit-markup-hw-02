@@ -116,14 +116,14 @@ a {text-decoration: none;}
    /*=====================*/
    /*=======Features==============*/
  .features-subtitle {
-    color: var #2e2f42;
+    color: #2e2f42;
         font-size: 20px;
         font-weight: 500;
         line-height: 1.2;
         letter-spacing: 0.02em;
  }
  .features-item-text {
-    color: #2e2f42;
+    color: #434455;
         font-size: 16px;
         font-weight: 400;
         line-height: 1.5;
@@ -132,7 +132,7 @@ a {text-decoration: none;}
  /*=====================*/
  /*=======team==============*/
  .team {
-    background; #F4F4FD;
+    background: #F4F4FD;
  }
 
  .team-titl {
