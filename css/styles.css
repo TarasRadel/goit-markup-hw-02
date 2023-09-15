@@ -20,7 +20,7 @@ a {text-decoration: none;}
 /*============Header=========*/
 .header-logo-dys{
     color:  #4D5AE5;
-        font-family: 'Raleway', sans-serif;
+        font-family: "Raleway", sans-serif;
         font-size: 18px;
         font-style: normal;
         font-weight: 700;
@@ -31,7 +31,8 @@ a {text-decoration: none;}
 }
 .header-logo{
     color: #2E2F42;
-        font-family: Raleway;
+        font-family: "Raleway",
+            sans-serif;
         font-size: 18px;
         font-weight: 700;
         line-height: 1.17;
@@ -202,17 +203,17 @@ a {text-decoration: none;}
 
  .footer-link {
     color:#F4F4FD;
-        font-family: Raleway;
+        font-family: "Raleway",
+            sans-serif;
         font-size: 18px;
         font-weight: 700;
-        line-height: 21p1.17;
-        /* 116.667% */
+        line-height: 1.17;
         letter-spacing: 0.03em;
         text-transform: uppercase;
  }
 
  .footer-logo-dys {color: #4D5AE5;
-    font-family: 'Raleway',
+    font-family: "Raleway",
         sans-serif;
     font-size: 18px;
     font-weight: 700;
@@ -223,7 +224,6 @@ a {text-decoration: none;}
  .footer-text {color:#F4F4FD;
     font-size: 16px;
     line-height: 1.5;
-    /* 150% */
     letter-spacing: 0.02em;}
  /*=====================*/
  
