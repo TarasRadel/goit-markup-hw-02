@@ -20,7 +20,7 @@ a {text-decoration: none;}
 /*============Header=========*/
 .header-logo-dys{
     color:  #4D5AE5;
-        font-family: Raleway;
+        font-family: 'Raleway', sans-serif;
         font-size: 18px;
         font-style: normal;
         font-weight: 700;
@@ -212,7 +212,8 @@ a {text-decoration: none;}
  }
 
  .footer-logo-dys {color: #4D5AE5;
-    font-family: Raleway;
+    font-family: 'Raleway',
+        sans-serif;
     font-size: 18px;
     font-weight: 700;
     line-height: 1.17;
