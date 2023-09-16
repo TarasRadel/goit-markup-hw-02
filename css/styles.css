@@ -42,7 +42,6 @@ a {text-decoration: none;}
 }
 .header-menu-link:hover,
 .header-menu-link:focus
-
 {
 color: #404BBF ;
 }
@@ -58,8 +57,7 @@ color: #404BBF ;
 
       .header-address-link:hover,
       .header-address-link:focus
-      {
-        color: #404BBF;
+      {color: #404BBF;
       }
 /*=====================*/
 
@@ -80,7 +78,6 @@ color: #404BBF ;
    .hero-bye-btn{
     background:  #4D5AE5;
     color: #FFFFFF; 
-    font-family: inherit;
     font-size: 16px;
     font-weight: 500;
     line-height: 1.5;
